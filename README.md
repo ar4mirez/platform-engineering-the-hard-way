@@ -21,5 +21,5 @@ This workshop is designed for software developers, system administrators, DevOps
 
 
 ## Labs
-* [Prerequisites](docs/01-prerequisites.md)
+* [Setup workstation](docs/lab01-setting-up-workstation.md)
 * []()
