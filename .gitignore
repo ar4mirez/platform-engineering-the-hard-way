@@ -599,3 +599,6 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/terraform,visualstudiocode,jetbrains+all,pulumi+stacks,ansible,goland+all,windows,linux,macos,node,python
 Ask AI to edit or generate...
+
+.env
+.envrc
