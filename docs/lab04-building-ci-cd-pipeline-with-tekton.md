@@ -19,6 +19,11 @@ $ kubectl apply -f \
     https://storage.googleapis.com/tekton-releases/triggers/latest/interceptors.yaml
 ```
 
+## Install Tekton Dashboard
+```shell
+$ kubectl apply -f https://storage.googleapis.com/tekton-releases/dashboard/latest/release.yaml
+```
+
 ## Post message to event listener
 
 ```shell
